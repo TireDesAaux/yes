@@ -1,0 +1,38 @@
+body {
+    background-color: gray;
+}
+
+.etu {
+    display: inline-block;
+    margin: 40px;
+    padding: 20px;
+    margin-bottom: 55px;
+    margin-left: 3%;
+    box-shadow: 100px;
+    border: 2px solid white;
+    border-radius: 10px;
+    padding: 10px;
+    box-shadow: 2px;
+}
+
+.tix {
+    text-align: left;
+    margin-right: 950px;
+    background-color: whitesmoke;
+    height: 178px;
+    margin-left: 3%;
+    width: 45%;
+
+}
+
+.her {
+    font-size: 40px;
+    margin-left: 3%;
+    color: white;
+}
+
+.men {
+    margin-left: 960px;
+    margin-bottom: 800px;
+    display: inline-block;
+}

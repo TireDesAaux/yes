@@ -1,3 +1,14 @@
 body {
-    background-color: bisque;
+    background-color: white;
+}
+
+.hc {
+    border: 2px solid red;
+    color: red;
+}
+
+.hp {
+    background-color: gray;
+    padding: 3px;
+    color: white;
 }
