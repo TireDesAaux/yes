@@ -1,0 +1,38 @@
+.cobleu {
+    background-color: blue;
+}
+
+.cover {
+    background-color: greenyellow;
+}
+
+.corosefon {
+    background-color: rgb(190, 21, 21);
+}
+
+.covl {
+    background-color: aqua;
+}
+
+.cora {
+    background-color: orangered;
+}
+
+.copi {
+    background-color: palevioletred;
+}
+
+td,
+th,
+tr,
+table {
+    border-radius: 5px solid;
+    padding: 17px;
+
+}
+
+.thed {
+    background-color: gray;
+
+
+}
